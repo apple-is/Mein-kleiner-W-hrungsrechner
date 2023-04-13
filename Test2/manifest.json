@@ -1,0 +1,9 @@
+{
+    "name": "Währungsrechner",
+    "short_name": "landrechner",
+    "theme_color": "#21f3d7",
+    "background_color": "#21f3d7",
+    "display": "fullscreen",
+    "scope": "/",
+    "start_url": "/index.html"
+  }
